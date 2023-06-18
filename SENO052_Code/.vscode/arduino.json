@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:mega",
+    "port": "COM8",
+    "sketch": "SENO052_Code.ino"
+}
